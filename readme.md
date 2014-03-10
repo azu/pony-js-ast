@@ -6,6 +6,10 @@ This is  thought experiment project about visualize JavaScript AST.
 
 Inspired by [square/PonyDebugger](https://github.com/square/PonyDebugger "square/PonyDebugger")
 
+## Thought
+
+JS AST(JSON) => HTML => View as DOM
+
 ## Usage
 
 ``` sh
