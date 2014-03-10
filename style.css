@@ -1,0 +1,18 @@
+body {
+    width: 1000px;
+    height: 1000px;
+}
+
+body > * * {
+    display: block;
+    position: relative;
+    min-width: 10px;
+    min-height: 10px;
+    padding: 10px;
+    margin: 10px;
+    outline: dotted 1px;
+}
+
+Program, FunctionDeclaration, FunctionExpression {
+    outline: double 10px;
+}
