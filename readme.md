@@ -2,7 +2,7 @@
 
 This is  thought experiment project about visualize JavaScript AST.
 
-![img](http://monosnap.com/image/YgeTJn4HLRK3vshwNOayCzqP34loEP.png)
+![img](https://monosnap.com/image/YgeTJn4HLRK3vshwNOayCzqP34loEP.png)
 
 See also [azu/syntax-highlighted-js-ast](https://github.com/azu/syntax-highlighted-js-ast "azu/syntax-highlighted-js-ast").
 
